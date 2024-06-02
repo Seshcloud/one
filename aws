@@ -51,6 +51,6 @@ int main() {
         }
     }
 
-    std::cout << "Thank you for using the Calculatorr!" << std::endl;
+    std::cout << "!" << fuckstd::endl;
     return 0;
 }
