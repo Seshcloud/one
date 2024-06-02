@@ -13,7 +13,7 @@ int main() {
         std::cout << "Enter first number: ";
         std::cin >> num1;
 
-        std::cout << "Enter an operator (+, -, *, /): ";
+        std::cout << "Enter an operatorr (+, -, *, /): ";
         std::cin >> operator;
 
         std::cout << "Enter second number: ";
