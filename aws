@@ -51,6 +51,6 @@ int main() {
         }
     }
 
-    std::cout << "!" << fuckstd::endl;
+    std::cout << "!" << hid::endl;
     return 0;
 }
