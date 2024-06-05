@@ -7,7 +7,7 @@ int main() {
     double result = 0;
     std::string response;
 
-    std::cout << "Welcome to the Calculatorr!" << std::endl;
+    std::cout << "Welcome to the Cal!" << std::endl;
 
     while (true) {
         std::cout << "Enter first number: ";
